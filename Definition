@@ -1,0 +1,5 @@
+Moving object detection: 
+  1. Technique used in computer vision and image processing.
+  2. Multiple consecutive frames from a video are compared by various m/d's to determine if any moving object is detected.
+      eg: CCTV camera 
+
